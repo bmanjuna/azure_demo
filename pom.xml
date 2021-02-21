@@ -62,8 +62,8 @@
         <version>1.9.1</version>  
         <configuration> 
           <schemaVersion>V2</schemaVersion>  
-          <resourceGroup>Regroup_8tud</resourceGroup>  
-          <appName>azure-blob-demo-manju</appName>  
+          <resourceGroup>Regroup_5gmg</resourceGroup>  
+          <appName>azure-demo-manju</appName>  
           <pricingTier>B1</pricingTier>  
           <region>westus</region>  
           <runtime> 
