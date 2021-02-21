@@ -63,7 +63,7 @@
         <configuration> 
           <schemaVersion>V2</schemaVersion>  
           <resourceGroup>Regroup_8tud</resourceGroup>  
-          <appName>azure-blob-demo-shankar</appName>  
+          <appName>azure-blob-demo-manju</appName>  
           <pricingTier>B1</pricingTier>  
           <region>westus</region>  
           <runtime> 
